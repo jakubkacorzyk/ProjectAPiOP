@@ -1,3 +1,17 @@
-\contentsline {section}{\numberline {1}1}{2}
-\contentsline {section}{\numberline {2}2}{2}
-\contentsline {section}{\numberline {3}3}{2}
+\contentsline {section}{\numberline {1}Informacje wst\IeC {\k e}pne}{2}
+\contentsline {subsection}{\numberline {1.1}Cel i okoliczno\IeC {\'s}ci powstania firmy}{2}
+\contentsline {subsection}{\numberline {1.2}Dzia\IeC {\l }alno\IeC {\'s}\IeC {\'c} przedsi\IeC {\k e}biorstwa}{2}
+\contentsline {subsection}{\numberline {1.3}Forma prawna przedsi\IeC {\k e}biorstwa}{2}
+\contentsline {subsection}{\numberline {1.4}Post\IeC {\k e}powanie przygotowawcze}{2}
+\contentsline {section}{\numberline {2}Rejestracja firmy}{2}
+\contentsline {subsection}{\numberline {2.1}Akt za\IeC {\l }o\IeC {\.z}ycielski czyli Statut Sp\IeC {\'o}\IeC {\l }ki}{2}
+\contentsline {subsection}{\numberline {2.2}Wniesienie kapita\IeC {\l }u zak\IeC {\l }adowego}{3}
+\contentsline {subsection}{\numberline {2.3}Powo\IeC {\l }anie organ\IeC {\'o}w sp\IeC {\'o}\IeC {\l }ki}{3}
+\contentsline {subsection}{\numberline {2.4}Wpis do rejestru s\IeC {\k a}dowego}{3}
+\contentsline {subsection}{\numberline {2.5}Zg\IeC {\l }oszenie sp\IeC {\'o}\IeC {\l }ki w urz\IeC {\k e}dzie statystycznym, urz\IeC {\k e}dzie skarbowym i ZUS.}{4}
+\contentsline {subsection}{\numberline {2.6}Za\IeC {\l }o\IeC {\.z}enie rachunku bankowego sp\IeC {\'o}\IeC {\l }ki}{4}
+\contentsline {subsection}{\numberline {2.7}Uzupe\IeC {\l }nienie zg\IeC {\l }oszenia w urz\IeC {\k e}dzie skarbowym}{4}
+\contentsline {subsection}{\numberline {2.8}Uzupe\IeC {\l }nienie zg\IeC {\l }oszenia w ZUS}{4}
+\contentsline {section}{\numberline {3}Formy opodatkowania przedsi\IeC {\k e}biorstwa}{5}
+\contentsline {section}{\numberline {4}Zatrudnianie pracownik\IeC {\'o}w}{5}
+\contentsline {section}{\numberline {5}Wnioski}{5}
