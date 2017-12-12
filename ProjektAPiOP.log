@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.10.8)  12 DEC 2017 22:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.12.6)  13 DEC 2017 00:52
 entering extended mode
 **./ProjektAPiOP.tex
 (ProjektAPiOP.tex
-LaTeX2e <2016/03/31> patch level 3
-Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+LaTeX2e <2017-04-15>
+Babel <3.15> and hyphenation patterns for 75 language(s) loaded.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
@@ -27,14 +27,14 @@ Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@posthook=\toks15
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
-File: utf8.def 2016/02/28 v1.1s UTF-8 support for inputenc
+File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
-File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -246,6 +246,8 @@ File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+0219 (decimal 537)
    defining Unicode char U+021A (decimal 538)
    defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+0232 (decimal 562)
+   defining Unicode char U+0233 (decimal 563)
    defining Unicode char U+1E02 (decimal 7682)
    defining Unicode char U+1E03 (decimal 7683)
    defining Unicode char U+200C (decimal 8204)
@@ -266,12 +268,14 @@ File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+2039 (decimal 8249)
    defining Unicode char U+203A (decimal 8250)
    defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+1E20 (decimal 7712)
+   defining Unicode char U+1E21 (decimal 7713)
 )
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
-File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -312,7 +316,7 @@ Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
-File: omsenc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
    defining Unicode char U+00B7 (decimal 183)
@@ -336,50 +340,40 @@ Now handling font encoding U ...
    defining Unicode char U+2423 (decimal 9251)
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
-Package: fontenc 2016/06/19 v1.99m Standard LaTeX package
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
-File: t1enc.def 2016/06/19 v1.99m Standard LaTeX file
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\polski\polski.sty"
-Package: polski 2008/02/24 v1.3.3 Polish language package
+Package: polski 2017/05/04 v1.3.4 Polish language package
 
-Document language package `polski' v1.3.3 <2008/02/24>
    Inputenc package detected. Catcodes not changed.
-\l@nohyphenation=\language75
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\mathpazo.sty"
 Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
 \symupright=\mathgroup4
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
-Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
-File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count87
+File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
@@ -398,8 +392,8 @@ s
 \f@nch@O@orf=\skip51
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
-Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count88
+Package: etoolbox 2017/11/22 v2.5 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count87
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\blindtext\blindtext.sty"
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
@@ -407,30 +401,30 @@ Package: blindtext 2012/01/06 V2.0 blindtext-Package
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\xspace.sty"
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-\c@blindtext=\count89
-\c@Blindtext=\count90
-\c@blind@countparstart=\count91
-\blind@countxx=\count92
-\blindtext@numBlindtext=\count93
-\blind@countyy=\count94
-\c@blindlist=\count95
-\c@blindlistlevel=\count96
-\c@blindlist@level=\count97
-\blind@listitem=\count98
-\c@blind@listcount=\count99
-\c@blind@levelcount=\count100
-\blind@mathformula=\count101
-\blind@Mathformula=\count102
-\c@blind@randomcount=\count103
-\c@blind@randommax=\count104
-\c@blind@pangramcount=\count105
-\c@blind@pangrammax=\count106
+\c@blindtext=\count88
+\c@Blindtext=\count89
+\c@blind@countparstart=\count90
+\blind@countxx=\count91
+\blindtext@numBlindtext=\count92
+\blind@countyy=\count93
+\c@blindlist=\count94
+\c@blindlistlevel=\count95
+\c@blindlist@level=\count96
+\blind@listitem=\count97
+\c@blind@listcount=\count98
+\c@blind@levelcount=\count99
+\blind@mathformula=\count100
+\blind@Mathformula=\count101
+\c@blind@randomcount=\count102
+\c@blind@randommax=\count103
+\c@blind@pangramcount=\count104
+\c@blind@pangrammax=\count105
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
-Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
@@ -439,9 +433,9 @@ Package ifvtex Info: VTeX not detected.
 ("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count107
-\Gm@cntv=\count108
-\c@Gm@tempcnt=\count109
+\Gm@cnth=\count106
+\Gm@cntv=\count107
+\c@Gm@tempcnt=\count108
 \Gm@bindingoffset=\dimen105
 \Gm@wd@mp=\dimen106
 \Gm@odd@mp=\dimen107
@@ -493,39 +487,32 @@ File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count110
+\scratchcounter=\count109
 \scratchdimen=\dimen114
 \scratchbox=\box26
-\nofMPsegments=\count111
-\nofMParguments=\count112
+\nofMPsegments=\count110
+\nofMParguments=\count111
 \everyMPshowfont=\toks18
-\MPscratchCnt=\count113
+\MPscratchCnt=\count112
 \MPscratchDim=\dimen115
-\MPnumerator=\count114
-\makeMPintoPDFobject=\count115
+\MPnumerator=\count113
+\makeMPintoPDFobject=\count114
 \everyMPtoPDFconversion=\toks19
-) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
-Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-))
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
@@ -534,15 +521,28 @@ Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 38.
 Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
@@ -612,15 +612,18 @@ File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 <logo.jpg, id=1, 226.9278pt x 358.4592pt>
 File: logo.jpg Graphic file (type jpg)
- <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 76.
-(pdftex.def)             Requested size: 226.92723pt x 358.45831pt.
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg  used on input line 76. on input line 76.
+Package pdftex.def Info: Requested size: 226.92723pt x 358.45831pt on input lin
+e 76.
  [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./logo.jpg>]
+{C:/Users/sjako/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./logo.jpg>
+]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 92.
- (ProjektAPiOP.toc
+
+(ProjektAPiOP.toc
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 1.
 )
@@ -630,38 +633,37 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
  [1]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 99.
-LaTeX Font Info:    Try loading font information for OMS+ppl on input line 121.
+LaTeX Font Info:    Try loading font information for OMS+ppl on input line 124.
 
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsppl.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsppl.fd"
 File: omsppl.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 121.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 124.
  [2
 
 
 ] [3] [4]
-Overfull \hbox (2.02094pt too wide) in paragraph at lines 255--257
+Overfull \hbox (2.02094pt too wide) in paragraph at lines 258--260
 \T1/ppl/m/n/10.95 Jak wspo-mnia-no, spóª-ka ak-cyj-na pod-le-ga opo-dat-ko-wa-n
 iu po-dat-kiem do-cho-do-wym od osób praw-
  []
 
 [5] [6] (ProjektAPiOP.aux) ) 
 Here is how much of TeX's memory you used:
- 4091 strings out of 493334
- 56506 string characters out of 3139246
- 149267 words of memory out of 3000000
- 7527 multiletter control sequences out of 15000+200000
+ 4050 strings out of 493312
+ 56038 string characters out of 3138899
+ 144567 words of memory out of 3000000
+ 7503 multiletter control sequences out of 15000+200000
  33409 words of font info for 58 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 49i,10n,43p,1031b,254s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontna
-me/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pf
-b><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program 
-Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2
-.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on ProjektAPiOP.pdf (7 pages, 147116 bytes).
+ 51i,10n,43p,1031b,256s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8
+r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C
+:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/urw/palatino/uplri8a.pfb>
+Output written on ProjektAPiOP.pdf (7 pages, 147599 bytes).
 PDF statistics:
  44 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
