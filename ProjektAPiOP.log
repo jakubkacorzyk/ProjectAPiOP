@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.12.6)  13 DEC 2017 00:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.12.6)  13 DEC 2017 05:21
 entering extended mode
 **./ProjektAPiOP.tex
 (ProjektAPiOP.tex
@@ -633,23 +633,23 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
  [1]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 99.
-LaTeX Font Info:    Try loading font information for OMS+ppl on input line 124.
+LaTeX Font Info:    Try loading font information for OMS+ppl on input line 123.
 
  ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsppl.fd"
 File: omsppl.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 124.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 123.
  [2
 
 
-] [3] [4]
-Overfull \hbox (2.02094pt too wide) in paragraph at lines 258--260
+] [3]
+Overfull \hbox (2.02094pt too wide) in paragraph at lines 242--244
 \T1/ppl/m/n/10.95 Jak wspo-mnia-no, spóª-ka ak-cyj-na pod-le-ga opo-dat-ko-wa-n
 iu po-dat-kiem do-cho-do-wym od osób praw-
  []
 
-[5] [6] (ProjektAPiOP.aux) ) 
+[4] [5] [6] (ProjektAPiOP.aux) ) 
 Here is how much of TeX's memory you used:
  4050 strings out of 493312
  56038 string characters out of 3138899
@@ -657,13 +657,13 @@ Here is how much of TeX's memory you used:
  7503 multiletter control sequences out of 15000+200000
  33409 words of font info for 58 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 51i,10n,43p,1031b,256s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8
-r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C
-:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program File
-s/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/f
-onts/type1/urw/palatino/uplri8a.pfb>
-Output written on ProjektAPiOP.pdf (7 pages, 147599 bytes).
+ 51i,10n,43p,1031b,263s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/ba
+se/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program 
+Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on ProjektAPiOP.pdf (7 pages, 145106 bytes).
 PDF statistics:
  44 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
