@@ -16,4 +16,4 @@
 \contentsline {subsection}{\numberline {3.2}Stawki podatku dochodowego}{4}
 \contentsline {section}{\numberline {4}Zatrudnianie pracownik\IeC {\'o}w}{5}
 \contentsline {section}{\numberline {5}Wnioski}{5}
-\contentsline {section}{\numberline {6}Za\IeC {\l }\IeC {\k a}czniki}{5}
+\contentsline {section}{\numberline {6}Za\IeC {\l }\IeC {\k a}czniki}{6}
